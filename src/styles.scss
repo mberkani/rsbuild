@@ -1,0 +1,27 @@
+// src/styles.scss
+@import './bootstrap_theme.scss';
+
+/*
+
+// Importez les variables pour pouvoir les surcharger avant d'importer Materialize
+@charset "UTF-8";
+
+// Color
+@import "materialize-css/sass/components/color-variables";
+@import "materialize-css/sass/components/color-classes";
+//@import 'materialize-css/sass/components/_variables.scss';
+
+// Définissez vos propres variables (par exemple, pour personnaliser les couleurs)
+@import 'frobshop_theme.scss';
+
+// Importez les composants SCSS de Materialize
+@import 'materialize-css/sass/materialize.scss';
+
+
+
+// Ajoutez vos propres styles en dessous
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+*/
